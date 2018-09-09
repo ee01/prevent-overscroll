@@ -1,5 +1,5 @@
 {
-  "name": "prevent-overscroll",
+  "name": "rubberband-scroll",
   "version": "1.0.1",
   "description": "Includable JavaScript to prevent overscroll on mobile devices.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/luster-io/prevent-overscroll.git"
+    "url": "https://github.com/ee01/prevent-overscroll.git"
   },
   "keywords": [
     "browserify",
@@ -16,9 +16,14 @@
     "scrolling"
   ],
   "author": "Luster.io",
+  "contributors": [{
+    "name": "Esone MacGhilleseatheanaich",
+    "email": "01@eexx.me",
+    "url": "http://it.eexx.me"
+  }],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/luster-io/prevent-overscroll/issues"
+    "url": "https://github.com/ee01/prevent-overscroll/issues"
   },
-  "homepage": "https://github.com/luster-io/prevent-overscroll"
+  "homepage": "https://github.com/ee01/prevent-overscroll"
 }
